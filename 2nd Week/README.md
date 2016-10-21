@@ -2,7 +2,7 @@
 
 These java classes were written by me as part of the Coding Bootcamp ([AFDEmp]) courses.
 
-The exercises can be found [here]. Exercise 3 was solved before [there] (as exercise 9).
+The exercises can be found [here]. Exercise 3 was solved before [there](as exercise 9).
 
 [AFDEmp]: <http://www.afdemp.org/>
 [here]: <https://codeandwork.github.io/courses/java/linearDataStructures-p.html#/44>
